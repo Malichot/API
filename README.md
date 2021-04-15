@@ -9,6 +9,7 @@ Introduction à l'utilisation des API Gallica :
 - Occurrences de recherche
 - IIIF
 
-Ouvrir le notebook avec nbviewer. 
+ 
+**Ouvrir le notebook avec [nbviewer](https://nbviewer.jupyter.org/github.com/Malichot/API/blob/main/Notebooks_demos/API_Gallica-Titanic.ipynb).**
 
 ## Démonstration #2 : Littérature
