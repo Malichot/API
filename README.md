@@ -6,7 +6,7 @@ Introduction à l'utilisation des API Gallica :
 
 **Ouvrir le notebook avec [nbviewer](https://nbviewer.jupyter.org/github/Malichot/API/blob/main/Notebooks_demos/API_Gallica_SRU.ipynb).**
 
-## Démonstration #2 : Titanic
+## Démonstration #2 : Titanic [vidéo](https://www.youtube.com/watch?v=ukBr7qUZvww))
 Introduction à l'utilisation des API Gallica :
 - API de requêtage SRU du moteur d'indexation de Gallica
 - API de facettage des résultats de la recherche
@@ -16,7 +16,7 @@ Introduction à l'utilisation des API Gallica :
  
 **Ouvrir le notebook avec [nbviewer](https://nbviewer.jupyter.org/github/Malichot/API/blob/main/Notebooks_demos/API_Gallica_Titanic.ipynb)**
 
-## Démonstration #2 : Littérature
+## Démonstration #2 : Maupassant 
 
 ### Notebook 1-Recuperation-OCR (R)
 
