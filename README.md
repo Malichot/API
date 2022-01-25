@@ -1,7 +1,12 @@
 # API Gallica
 
-## Démonstration #1 : Titanic
+## Démonstration #1 : Les trois mousquetaires ([vidéo](https://www.youtube.com/watch?v=SF0Yx0Tg8vA))
+Introduction à l'utilisation des API Gallica :
+- API de requêtage SRU du moteur d'indexation de Gallica
 
+**Ouvrir le notebook avec [nbviewer](https://nbviewer.jupyter.org/github/Malichot/API/blob/main/Notebooks_demos/API_Gallica_SRU.ipynb).**
+
+## Démonstration #2 : Titanic
 Introduction à l'utilisation des API Gallica :
 - API de requêtage SRU du moteur d'indexation de Gallica
 - API de facettage des résultats de la recherche
@@ -9,7 +14,7 @@ Introduction à l'utilisation des API Gallica :
 - API d'accès aux occurrences de recherche
 - API IIIF d'accès aux images des documents
  
-**Ouvrir le notebook avec [nbviewer](https://nbviewer.jupyter.org/github/Malichot/API/blob/main/Notebooks_demos/API_Gallica-Titanic.ipynb).**
+**Ouvrir le notebook avec [nbviewer](https://nbviewer.jupyter.org/github/Malichot/API/blob/main/Notebooks_demos/API_Gallica_Titanic.ipynb)**
 
 ## Démonstration #2 : Littérature
 
